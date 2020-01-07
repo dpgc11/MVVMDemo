@@ -1,4 +1,4 @@
-package net.puppular.mvvmdemo
+package net.puppular.gunnerNews
 
 import org.junit.Test
 
